@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thread", "Thread\Thread.vcxproj", "{E9A27B33-C62D-4F5A-A760-0341AD8B2CF6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ThreadAPI", "ThreadAPI\ThreadAPI.vcxproj", "{6DB53DDA-E8E4-4C18-AE6C-4BA49E3C05C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9A27B33-C62D-4F5A-A760-0341AD8B2CF6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E9A27B33-C62D-4F5A-A760-0341AD8B2CF6}.Debug|Win32.Build.0 = Debug|Win32
+		{E9A27B33-C62D-4F5A-A760-0341AD8B2CF6}.Release|Win32.ActiveCfg = Release|Win32
+		{E9A27B33-C62D-4F5A-A760-0341AD8B2CF6}.Release|Win32.Build.0 = Release|Win32
+		{6DB53DDA-E8E4-4C18-AE6C-4BA49E3C05C7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6DB53DDA-E8E4-4C18-AE6C-4BA49E3C05C7}.Debug|Win32.Build.0 = Debug|Win32
+		{6DB53DDA-E8E4-4C18-AE6C-4BA49E3C05C7}.Release|Win32.ActiveCfg = Release|Win32
+		{6DB53DDA-E8E4-4C18-AE6C-4BA49E3C05C7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
